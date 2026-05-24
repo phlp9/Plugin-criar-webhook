@@ -1,18 +1,12 @@
 {
-  "name": "Realmoji",
-  "description": "Makes freemojis real (Client-side only)",
-  "authors": [
-    {
-      "name": "redstonekasi",
-      "id": "265064055490871297"
-    },
-    {
-      "name": "Purple_Ξye™",
-      "id": "646535537334812682"
-    }
-  ],
-  "main": "index.js",
-  "vendetta": {
-    "icon": "ReactionIcon"
-  }
+   "name": "HideMessageShortcuts",
+   "version": "1.1.0",
+   "description": "Hide the unnecessary shortcut icons from messages.",
+   "authors": [
+      {
+         "name": "SerStars",
+         "id": "861631850681729045"
+      }
+   ],
+   "color": "#000001"
 }
