@@ -1,13 +1,14 @@
 {
-  "name": "iOS Webhook Button",
-  "description": "Stylish iOS webhook button",
-  "authors": [
-    {
-      "name": "SeuNome"
+    "name": "Create webhooks",
+    "description": "Create webhooks from the webhook management screen",
+    "authors": [
+        {
+            "name": "cloudburst",
+            "id": "892128204150685769"
+        }
+    ],
+    "main": "index.js",
+    "vendetta": {
+        "icon": "ic_webhook_24px"
     }
-  ],
-  "main": "index.js",
-  "vendetta": {
-    "icon": "ic_badge_staff"
-  }
 }
