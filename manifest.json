@@ -11,7 +11,7 @@
       "id": "646535537334812682"
     }
   ],
-  "main": "index.tsx",
+  "main": "index.js",
   "vendetta": {
     "icon": "ReactionIcon"
   }
