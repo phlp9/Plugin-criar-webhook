@@ -1,0 +1,13 @@
+{
+  "name": "iOS Webhook Button",
+  "description": "Stylish iOS webhook button",
+  "authors": [
+    {
+      "name": "SeuNome"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_badge_staff"
+  }
+}
