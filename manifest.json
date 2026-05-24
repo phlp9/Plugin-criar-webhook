@@ -1,14 +1,18 @@
 {
-    "name": "Create webhooks",
-    "description": "Create webhooks from the webhook management screen",
-    "authors": [
-        {
-            "name": "cloudburst",
-            "id": "892128204150685769"
-        }
-    ],
-    "main": "index.js",
-    "vendetta": {
-        "icon": "ic_webhook_24px"
+  "name": "Realmoji",
+  "description": "Makes freemojis real (Client-side only)",
+  "authors": [
+    {
+      "name": "redstonekasi",
+      "id": "265064055490871297"
+    },
+    {
+      "name": "Purple_Ξye™",
+      "id": "646535537334812682"
     }
+  ],
+  "main": "src/index.js",
+  "vendetta": {
+    "icon": "ReactionIcon"
+  }
 }
